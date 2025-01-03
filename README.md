@@ -55,7 +55,7 @@ pip install opencv-python mediapipe scikit-learn
 Run the following Python script to start the hand gesture recognition program:
 
 ```bash
-python hand_gesture_recognition.py
+python app.py
 ```
 
 ### 4. Usage Instructions
