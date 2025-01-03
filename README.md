@@ -83,7 +83,7 @@ Once the dataset is saved, the KNN model will be used to predict the class of ne
 ```
 hand-gesture-recognition/
 │
-├── hand_gesture_recognition.py   # Main Python script for gesture recognition
+├── app.py   # Main Python script for gesture recognition
 ├── hand_gesture_data/            # Directory to store the gesture dataset
 │   └── hand_gestures.csv         # CSV file containing the dataset (class label + hand landmarks)
 ├── requirements.txt             # List of dependencies
